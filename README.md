@@ -1,2 +1,2 @@
 # test_repository
-test repository to get used to github/git commands
+To jest próbne repozytorium mające pokazać możliwości GIt-huba
